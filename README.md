@@ -27,3 +27,5 @@ Now run in terminal run **truffle migrate --reset** and it will confirm you that
 If done, just go and type npm run start and it will take 20-30 seconds to start and automaically open in your default browser.
 
 Just upload the image and make sure **don't forget to open console.**
+
+![screenshot from 2018-10-13 13-45-46](https://user-images.githubusercontent.com/34127674/46908654-f229ca80-cef3-11e8-9795-9e02976b122b.png)
