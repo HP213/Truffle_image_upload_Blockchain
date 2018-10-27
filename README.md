@@ -18,7 +18,10 @@ And your ganache will start like this:
 ![screenshot from 2018-10-13 13-13-29](https://user-images.githubusercontent.com/34127674/46908015-f2bd6380-cee9-11e8-8f19-ec25d9b1bf1e.png)
 
 
-Now clone the repository and run **npm install package.json**
+Now clone the repository and run
+**cd Truffle_image_upload_Blockchain**
+**cd client**
+**npm install package.json**
 
 Make sure install **metamask extension** in chrome browser and make it default. And run the metamask by completing all the formalitites. Go to custom RPC there and add url of local host porovided by ganache on the top, you will automatically get free 100 ethereum!!!!
 
